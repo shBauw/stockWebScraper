@@ -1,0 +1,493 @@
+	Name	Ticker	Sector	Market Cap	PE Ratio
+0	Microsoft Corporation	MSFT	Information Technology	2.057T	28.58
+1	Amazon.com Inc.	AMZN	Consumer Discretionary	1.363T	120.54
+2	Alphabet Inc. Class A	GOOGL	Communication Services	1.488T	21.74
+3	Alphabet Inc. Class C	GOOG	Communication Services	1.49T	22.45
+4	Tesla Inc	TSLA	Consumer Discretionary	930.943B	109.76
+5	UnitedHealth Group Incorporated	UNH	Health Care	501.796B	28.03
+6	Johnson & Johnson	JNJ	Health Care	435.34B	24.10
+7	Exxon Mobil Corporation	XOM	Energy	410.846B	10.79
+8	Meta Platforms Inc. Class A	META	Communication Services	438.769B	13.94
+9	NVIDIA Corporation	NVDA	Information Technology	429.172B	46.18
+10	Procter & Gamble Company	PG	Consumer Staples	348.444B	25.10
+11	JPMorgan Chase & Co.	JPM	Financials	339.592B	9.29
+12	Visa Inc. Class A	V	Information Technology	435.538B	30.44
+13	Pfizer Inc.	PFE	Health Care	269.449B	9.23
+14	Home Depot Inc.	HD	Consumer Discretionary	315.421B	18.93
+15	Chevron Corporation	CVX	Energy	319.433B	10.89
+16	Mastercard Incorporated Class A	MA	Information Technology	328.288B	34.42
+17	AbbVie Inc.	ABBV	Health Care	243.839B	19.51
+18	Eli Lilly and Company	LLY	Health Care	302.982B	50.86
+19	Coca-Cola Company	KO	Consumer Staples	278.333B	29.25
+20	PepsiCo Inc.	PEP	Consumer Staples	247.393B	27.00
+21	Merck & Co. Inc.	MRK	Health Care	228.021B	13.74
+22	Bank of America Corp	BAC	Financials	277.376B	10.79
+23	Verizon Communications Inc.	VZ	Communication Services	182.897B	8.74
+24	Costco Wholesale Corporation	COST	Consumer Staples	240.626B	42.77
+25	Thermo Fisher Scientific Inc.	TMO	Health Care	224.554B	30.50
+26	Broadcom Inc.	AVGO	Information Technology	214.979B	26.29
+27	Abbott Laboratories	ABT	Health Care	184.649B	22.01
+28	McDonald's Corporation	MCD	Consumer Discretionary	191.919B	32.13
+29	Comcast Corporation Class A	CMCSA	Communication Services	165.446B	12.09
+30	Accenture Plc Class A	ACN	Information Technology	193.88B	29.71
+31	Cisco Systems Inc.	CSCO	Information Technology	194.915B	16.69
+32	Walt Disney Company	DIS	Communication Services	212.222B	67.68
+33	Adobe Incorporated	ADBE	Information Technology	189.844B	39.69
+34	Walmart Inc.	WMT	Consumer Staples	369.973B	26.99
+35	Salesforce Inc.	CRM	Information Technology	179.11B	185.58
+36	Danaher Corporation	DHR	Health Care	207.278B	33.56
+37	Bristol-Myers Squibb Company	BMY	Health Care	154.636B	24.06
+38	NextEra Energy Inc.	NEE	Utilities	174.296B	68.24
+39	Philip Morris International Inc.	PM	Consumer Staples	151.358B	16.75
+40	AT&T Inc.	T	Communication Services	128.837B	7.97
+41	Wells Fargo & Company	WFC	Financials	169.322B	10.71
+42	Intel Corporation	INTC	Information Technology	139.399B	7.27
+43	Raytheon Technologies Corporation	RTX	Industrials	137.773B	31.21
+44	Linde plc	LIN	Materials	146.086B	42.48
+45	Qualcomm Incorporated	QCOM	Information Technology	158.691B	12.53
+46	Texas Instruments Incorporated	TXN	Information Technology	157.331B	18.84
+47	United Parcel Service Inc. Class B	UPS	Industrials	176.374B	16.31
+48	Union Pacific Corporation	UNP	Industrials	148.807B	22.21
+49	Amgen Inc.	AMGN	Health Care	130.785B	20.79
+50	NIKE Inc. Class B	NKE	Consumer Discretionary	174.753B	29.71
+51	International Business Machines Corporation	IBM	Information Technology	119.417B	21.88
+52	CVS Health Corporation	CVS	Health Care	132.963B	16.50
+53	Medtronic Plc	MDT	Health Care	118.714B	23.94
+54	American Tower Corporation	AMT	Real Estate	123.138B	43.57
+55	Advanced Micro Devices Inc.	AMD	Information Technology	149.696B	40.85
+56	Honeywell International Inc.	HON	Industrials	133.25B	26.98
+57	S&P Global Inc.	SPGI	Financials	125.299B	28.33
+58	ConocoPhillips	COP	Energy	140.695B	9.12
+59	Elevance Health Inc.	ELV	Health Care	118.416B	19.77
+60	Lowe's Companies Inc.	LOW	Consumer Discretionary	131.507B	16.36
+61	Oracle Corporation	ORCL	Information Technology	202.988B	31.61
+62	Intuit Inc.	INTU	Information Technology	131.383B	52.69
+63	Morgan Stanley	MS	Financials	152.111B	11.97
+64	Goldman Sachs Group Inc.	GS	Financials	116.723B	7.72
+65	Lockheed Martin Corporation	LMT	Industrials	114.999B	25.07
+66	ServiceNow Inc.	NOW	Information Technology	92.419B	538.26
+67	Charles Schwab Corp	SCHW	Financials	139.095B	24.20
+68	Caterpillar Inc.	CAT	Industrials	102.499B	15.55
+69	Citigroup Inc.	C	Financials	98.792B	6.39
+70	Starbucks Corporation	SBUX	Consumer Discretionary	98.734B	24.24
+71	Automatic Data Processing Inc.	ADP	Information Technology	106.431B	36.59
+72	Prologis Incorporated	PLD	Real Estate	97.078B	26.22
+73	Mondelez International Inc. Class A	MDLZ	Consumer Staples	88.539B	23.49
+74	BlackRock Inc.	BLK	Financials	105.602B	18.45
+75	American Express Company	AXP	Financials	119.307B	16.27
+76	Cigna Corporation	CI	Health Care	88.105B	17.23
+77	Duke Energy Corporation	DUK	Utilities	85.413B	22.46
+78	Deere & Company	DE	Industrials	116.563B	19.06
+79	Chubb Limited	CB	Financials	82.138B	11.83
+80	PayPal Holdings Inc.	PYPL	Information Technology	108.432B	57.52
+81	Zoetis Inc. Class A	ZTS	Health Care	76.133B	36.88
+82	T-Mobile US Inc.	TMUS	Communication Services	182.25B	106.86
+83	Netflix Inc.	NFLX	Communication Services	102.109B	21.72
+84	Marsh & McLennan Companies Inc.	MMC	Financials	83.97B	25.38
+85	Gilead Sciences Inc.	GILD	Health Care	79.739B	19.46
+86	Boeing Company	BA	Industrials	97.147B	N/A
+87	Southern Company	SO	Utilities	83.839B	27.87
+88	Altria Group Inc	MO	Consumer Staples	82.478B	46.73
+89	Applied Materials Inc.	AMAT	Information Technology	88.278B	13.58
+90	Analog Devices Inc.	ADI	Information Technology	84.172B	48.42
+91	Crown Castle International Corp	CCI	Real Estate	75.713B	48.97
+92	Intuitive Surgical Inc.	ISRG	Health Care	78.732B	56.82
+93	Vertex Pharmaceuticals Incorporated	VRTX	Health Care	74.637B	24.19
+94	CME Group Inc. Class A	CME	Financials	71.492B	24.71
+95	3M Company	MMM	Industrials	80.337B	19.70
+96	Booking Holdings Inc.	BKNG	Consumer Discretionary	79.053B	56.27
+97	Becton Dickinson and Company	BDX	Health Care	73.68B	39.26
+98	Northrop Grumman Corp.	NOC	Industrials	75.637B	13.65
+99	General Electric Company	GE	Industrials	84.149B	N/A
+100	Progressive Corporation	PGR	Financials	73.381B	89.63
+101	Colgate-Palmolive Company	CL	Consumer Staples	67.564B	35.22
+102	Stryker Corporation	SYK	Health Care	80.393B	39.13
+103	PNC Financial Services Group Inc.	PNC	Financials	68.655B	13.10
+104	Target Corporation	TGT	Consumer Discretionary	75.078B	18.47
+105	TJX Companies Inc	TJX	Consumer Discretionary	75.418B	22.99
+106	Dominion Energy Inc	D	Utilities	70.188B	43.68
+107	EOG Resources Inc.	EOG	Energy	72.611B	12.71
+108	Regeneron Pharmaceuticals Inc.	REGN	Health Care	65.709B	12.25
+109	Truist Financial Corporation	TFC	Financials	65.139B	11.14
+110	CSX Corporation	CSX	Industrials	71.988B	18.78
+111	U.S. Bancorp	USB	Financials	70.114B	10.87
+112	Equinix Inc.	EQIX	Real Estate	61.154B	95.65
+113	Activision Blizzard Inc.	ATVI	Communication Services	62.021B	33.17
+114	Edwards Lifesciences Corporation	EW	Health Care	58.87B	41.83
+115	Humana Inc.	HUM	Health Care	62.725B	20.23
+116	Micron Technology Inc.	MU	Information Technology	64.325B	6.70
+117	Waste Management Inc.	WM	Industrials	71.706B	33.95
+118	Estee Lauder Companies Inc. Class A	EL	Consumer Staples	94.851B	40.52
+119	Aon Plc Class A	AON	Financials	61.749B	42.06
+120	Fidelity National Information Services Inc.	FIS	Information Technology	57.776B	69.36
+121	Sherwin-Williams Company	SHW	Materials	62.082B	35.97
+122	Dollar General Corporation	DG	Consumer Discretionary	56.17B	25.35
+123	Charter Communications Inc. Class A	CHTR	Communication Services	69.979B	14.68
+124	Lam Research Corporation	LRCX	Information Technology	63.421B	14.14
+125	Norfolk Southern Corporation	NSC	Industrials	61.025B	20.72
+126	Boston Scientific Corporation	BSX	Health Care	58.911B	72.19
+127	Fiserv Inc.	FISV	Information Technology	67.911B	34.70
+128	Air Products and Chemicals Inc.	APD	Materials	58.271B	26.19
+129	Occidental Petroleum Corporation	OXY	Energy	69.778B	7.37
+130	FedEx Corporation	FDX	Industrials	58.755B	15.78
+131	Intercontinental Exchange Inc.	ICE	Financials	59.71B	17.88
+132	Illinois Tool Works Inc.	ITW	Industrials	63.664B	24.39
+133	Moderna Inc.	MRNA	Health Care	55.327B	4.53
+134	General Dynamics Corporation	GD	Industrials	64.308B	19.87
+135	Pioneer Natural Resources Company	PXD	Energy	61.294B	10.51
+136	Eaton Corp. Plc	ETN	Industrials	57.961B	25.26
+137	Centene Corporation	CNC	Health Care	54.655B	30.85
+138	Schlumberger NV	SLB	Energy	56.448B	21.81
+139	American Electric Power Company Inc.	AEP	Utilities	52.74B	20.25
+140	Newmont Corporation	NEM	Materials	35.557B	47.66
+141	Public Storage	PSA	Real Estate	60.38B	29.22
+142	Sempra Energy	SRE	Utilities	52.939B	48.54
+143	McKesson Corporation	MCK	Health Care	52.206B	38.56
+144	Emerson Electric Co.	EMR	Industrials	51.408B	16.47
+145	General Motors Company	GM	Consumer Discretionary	58.934B	7.68
+146	L3Harris Technologies Inc	LHX	Industrials	44.601B	24.05
+147	Synopsys Inc.	SNPS	Information Technology	54.857B	54.36
+148	Kimberly-Clark Corporation	KMB	Consumer Staples	45.137B	25.37
+149	Marathon Petroleum Corporation	MPC	Energy	52.246B	7.26
+150	General Mills Inc.	GIS	Consumer Staples	46.733B	17.75
+151	Exelon Corporation	EXC	Utilities	45.116B	24.86
+152	KLA Corporation	KLAC	Information Technology	51.428B	16.55
+153	Ford Motor Company	F	Consumer Discretionary	61.59B	5.37
+154	Moody's Corporation	MCO	Financials	54.839B	32.31
+155	MetLife Inc.	MET	Financials	52.674B	16.72
+156	Valero Energy Corporation	VLO	Energy	48.112B	7.04
+157	Sysco Corporation	SYY	Consumer Staples	43.769B	32.59
+158	Archer-Daniels-Midland Company	ADM	Consumer Staples	49.688B	13.98
+159	AutoZone Inc.	AZO	Consumer Discretionary	43.857B	20.04
+160	Freeport-McMoRan Inc.	FCX	Materials	44.765B	9.67
+161	Roper Technologies Inc.	ROP	Information Technology	44.75B	44.34
+162	Realty Income Corporation	O	Real Estate	43.626B	71.35
+163	Capital One Financial Corp	COF	Financials	42.358B	4.82
+164	O'Reilly Automotive Inc.	ORLY	Consumer Discretionary	45.033B	22.61
+165	American International Group Inc.	AIG	Financials	41.306B	3.56
+166	Travelers Companies Inc.	TRV	Financials	39.985B	11.71
+167	Cadence Design Systems Inc.	CDNS	Information Technology	50.115B	65.82
+168	IQVIA Holdings Inc	IQV	Health Care	43.19B	38.98
+169	Phillips 66	PSX	Energy	44.435B	7.83
+170	HCA Healthcare Inc	HCA	Health Care	60.396B	10.16
+171	Xcel Energy Inc.	XEL	Utilities	41.249B	25.05
+172	Corteva Inc	CTVA	Materials	44.481B	25.58
+173	Ecolab Inc.	ECL	Materials	48.137B	44.10
+174	NXP Semiconductors NV	NXPI	Information Technology	45.432B	18.95
+175	Fortinet Inc.	FTNT	Information Technology	39.552B	62.70
+176	Constellation Brands Inc. Class A	STZ	Consumer Staples	48.841B	39.61
+177	Marriott International Inc. Class A	MAR	Consumer Discretionary	51.905B	30.23
+178	Dow Inc.	DOW	Materials	38.953B	6.20
+179	Autodesk Inc.	ADSK	Information Technology	46.59B	98.36
+180	Amphenol Corporation Class A	APH	Information Technology	46.052B	27.36
+181	Williams Companies Inc.	WMB	Energy	43.355B	27.80
+182	Welltower Inc	WELL	Real Estate	35.916B	80.74
+183	Digital Realty Trust Inc.	DLR	Real Estate	36.901B	27.43
+184	Paychex Inc.	PAYX	Information Technology	48.616B	35.18
+185	Prudential Financial Inc.	PRU	Financials	37.014B	18.09
+186	Chipotle Mexican Grill Inc.	CMG	Consumer Discretionary	45.686B	61.91
+187	TE Connectivity Ltd.	TEL	Information Technology	41.499B	16.98
+188	SBA Communications Corp. Class A	SBAC	Real Estate	36.586B	105.00
+189	Allstate Corporation	ALL	Financials	34.317B	41.22
+190	Agilent Technologies Inc.	A	Health Care	39.566B	30.52
+191	Cognizant Technology Solutions Corporation Class A	CTSH	Information Technology	34.163B	15.31
+192	Monster Beverage Corporation	MNST	Consumer Staples	47.646B	39.32
+193	Motorola Solutions Inc.	MSI	Information Technology	41.493B	35.77
+194	Dollar Tree Inc.	DLTR	Consumer Discretionary	37.272B	25.46
+195	Electronic Arts Inc.	EA	Communication Services	34.925B	40.13
+196	Consolidated Edison Inc.	ED	Utilities	35.061B	21.68
+197	Arthur J. Gallagher & Co.	AJG	Financials	39.728B	38.39
+198	Johnson Controls International plc	JCI	Industrials	38.208B	37.48
+199	MSCI Inc. Class A	MSCI	Financials	37.667B	48.09
+200	Devon Energy Corporation	DVN	Energy	47.44B	9.18
+201	Aflac Incorporated	AFL	Financials	38.894B	9.28
+202	Yum! Brands Inc.	YUM	Consumer Discretionary	32.628B	22.98
+203	HP Inc.	HPQ	Information Technology	34.354B	6.08
+204	Cintas Corporation	CTAS	Industrials	43.422B	36.83
+205	Baxter International Inc.	BAX	Health Care	29.567B	29.35
+206	Kinder Morgan Inc Class P	KMI	Energy	43.46B	18.11
+207	Public Service Enterprise Group Inc	PEG	Utilities	33.543B	N/A
+208	WEC Energy Group Inc	WEC	Utilities	33.395B	24.51
+209	Parker-Hannifin Corporation	PH	Industrials	36.637B	28.29
+210	Hershey Company	HSY	Consumer Staples	47.839B	29.69
+211	Kroger Co.	KR	Consumer Staples	35.535B	17.18
+212	Global Payments Inc.	GPN	Information Technology	35.477B	412.90
+213	ResMed Inc.	RMD	Health Care	33.545B	43.22
+214	Warner Bros. Discovery Inc. Series A	WBD	Communication Services	32.821B	7.47
+215	Bank of New York Mellon Corp	BK	Financials	34.732B	10.96
+216	Hilton Worldwide Holdings Inc	HLT	Consumer Discretionary	36.562B	38.64
+217	Simon Property Group Inc.	SPG	Real Estate	39.97B	16.64
+218	Microchip Technology Incorporated	MCHP	Information Technology	38.188B	25.19
+219	Biogen Inc.	BIIB	Health Care	29.281B	14.58
+220	Carrier Global Corp.	CARR	Industrials	35.06B	13.53
+221	Trane Technologies plc	TT	Industrials	36.625B	24.77
+222	Otis Worldwide Corporation	OTIS	Industrials	33.371B	27.77
+223	DexCom Inc.	DXCM	Health Care	33.473B	209.56
+224	IDEXX Laboratories Inc.	IDXX	Health Care	30.017B	46.82
+225	International Flavors & Fragrances Inc.	IFF	Materials	29.842B	46.08
+226	Eversource Energy	ES	Utilities	31.963B	24.03
+227	Illumina Inc.	ILMN	Health Care	33.151B	47.47
+228	VICI Properties Inc	VICI	Real Estate	32.736B	35.78
+229	Hess Corporation	HES	Energy	38.123B	26.09
+230	Twitter Inc.	TWTR	Communication Services	31.214B	163.16
+231	PACCAR Inc	PCAR	Industrials	31.462B	14.27
+232	TransDigm Group Incorporated	TDG	Industrials	34.249B	49.30
+233	M&T Bank Corporation	MTB	Financials	32.373B	17.52
+234	Fastenal Company	FAST	Industrials	30.464B	29.78
+235	Halliburton Company	HAL	Energy	28.714B	19.91
+236	DuPont de Nemours Inc.	DD	Materials	29.724B	19.91
+237	Nucor Corporation	NUE	Materials	36.16B	4.27
+238	Verisk Analytics Inc	VRSK	Industrials	31.277B	30.66
+239	PPG Industries Inc.	PPG	Materials	30.082B	28.51
+240	Republic Services Inc.	RSG	Industrials	46.341B	33.64
+241	Cummins Inc.	CMI	Industrials	31.764B	15.74
+242	American Water Works Company Inc.	AWK	Utilities	28.091B	21.61
+243	Walgreens Boots Alliance Inc	WBA	Consumer Staples	31.779B	6.23
+244	Discover Financial Services	DFS	Financials	28.516B	6.77
+245	Kraft Heinz Company	KHC	Consumer Staples	47.682B	31.63
+246	AvalonBay Communities Inc.	AVB	Real Estate	29.36B	36.08
+247	Baker Hughes Company Class A	BKR	Energy	26.966B	66.17
+248	Mettler-Toledo International Inc.	MTD	Health Care	29.552B	37.73
+249	Keurig Dr Pepper Inc.	KDP	Consumer Staples	56.092B	26.06
+250	Ameriprise Financial Inc.	AMP	Financials	29.961B	10.00
+251	T. Rowe Price Group	TROW	Financials	28.171B	12.04
+252	Enphase Energy Inc.	ENPH	Information Technology	39.701B	202.13
+253	AMETEK Inc.	AME	Industrials	28.937B	26.82
+254	Weyerhaeuser Company	WY	Real Estate	26.659B	10.98
+255	Ross Stores Inc.	ROST	Consumer Discretionary	31.689B	21.46
+256	ONEOK Inc.	OKE	Energy	29.542B	18.78
+257	Tyson Foods Inc. Class A	TSN	Consumer Staples	28.601B	7.15
+258	Keysight Technologies Inc	KEYS	Information Technology	30.641B	29.26
+259	DTE Energy Company	DTE	Utilities	26.011B	32.99
+260	CBRE Group Inc. Class A	CBRE	Real Estate	26.394B	14.02
+261	Equity Residential	EQR	Real Estate	29.925B	23.89
+262	Aptiv PLC	APTV	Consumer Discretionary	26.416B	237.80
+263	Old Dominion Freight Line Inc.	ODFL	Industrials	32.598B	27.05
+264	Corning Inc	GLW	Information Technology	29.569B	14.95
+265	Edison International	EIX	Utilities	26.711B	52.00
+266	eBay Inc.	EBAY	Consumer Discretionary	25.013B	2.46
+267	Albemarle Corporation	ALB	Materials	33.719B	133.28
+268	Ameren Corporation	AEE	Utilities	24.64B	24.45
+269	Entergy Corporation	ETR	Utilities	24.546B	19.98
+270	Copart Inc.	CPRT	Industrials	29.536B	28.12
+271	SVB Financial Group	SIVB	Financials	25.376B	16.67
+272	Extra Space Storage Inc.	EXR	Real Estate	29.164B	31.28
+273	State Street Corporation	STT	Financials	25.928B	9.76
+274	Ball Corporation	BALL	Materials	19.267B	26.77
+275	Fifth Third Bancorp	FITB	Financials	24.442B	10.79
+276	LyondellBasell Industries NV	LYB	Materials	29.427B	5.37
+277	Rockwell Automation Inc.	ROK	Industrials	28.067B	42.43
+278	Church & Dwight Co. Inc.	CHD	Consumer Staples	21.075B	27.54
+279	D.R. Horton Inc.	DHI	Consumer Discretionary	25.95B	4.81
+280	West Pharmaceutical Services Inc.	WST	Health Care	25.449B	38.30
+281	Equifax Inc.	EFX	Industrials	25.42B	34.27
+282	Laboratory Corporation of America Holdings	LH	Health Care	21.045B	11.35
+283	FirstEnergy Corp.	FE	Utilities	23.199B	17.06
+284	Tractor Supply Company	TSCO	Consumer Discretionary	22.086B	21.99
+285	Zimmer Biomet Holdings Inc.	ZBH	Health Care	23.017B	79.49
+286	Hartford Financial Services Group Inc.	HIG	Financials	21.663B	11.04
+287	Alexandria Real Estate Equities Inc.	ARE	Real Estate	26.001B	87.55
+288	Southwest Airlines Co.	LUV	Industrials	22.429B	23.33
+289	AmerisourceBergen Corporation	ABC	Health Care	30.722B	17.02
+290	Duke Realty Corporation	DRE	Real Estate	24.025B	24.92
+291	Coterra Energy Inc.	CTRA	Energy	24.878B	7.50
+292	CDW Corp.	CDW	Information Technology	25.052B	25.20
+293	STERIS Plc	STE	Health Care	20.812B	53.18
+294	Ventas Inc.	VTR	Real Estate	19.282B	964.80
+295	Arista Networks Inc.	ANET	Information Technology	38.606B	43.17
+296	ANSYS Inc.	ANSS	Information Technology	22.678B	50.67
+297	PPL Corporation	PPL	Utilities	22.248B	30.53
+298	Waters Corporation	WAT	Health Care	19.017B	27.96
+299	Diamondback Energy Inc.	FANG	Energy	23.701B	6.27
+300	McCormick & Company Incorporated	MKC	Consumer Staples	23.829B	35.11
+301	ON Semiconductor Corporation	ON	Information Technology	31.206B	18.05
+302	Northern Trust Corporation	NTRS	Financials	20.491B	13.38
+303	Match Group Inc.	MTCH	Communication Services	16.337B	169.79
+304	Mid-America Apartment Communities Inc.	MAA	Real Estate	20.995B	34.77
+305	W.W. Grainger Inc.	GWW	Industrials	29.456B	22.85
+306	Gartner Inc.	IT	Information Technology	24.011B	34.93
+307	Ulta Beauty Inc	ULTA	Consumer Discretionary	21.35B	20.71
+308	CMS Energy Corporation	CMS	Utilities	20.337B	26.55
+309	Take-Two Interactive Software Inc.	TTWO	Communication Services	20.553B	81.66
+310	Fortive Corp.	FTV	Industrials	23.604B	36.46
+311	Lennar Corporation Class A	LEN	Consumer Discretionary	23.802B	5.75
+312	Catalent Inc	CTLT	Health Care	18.86B	38.98
+313	CenterPoint Energy Inc.	CNP	Utilities	20.314B	24.26
+314	Genuine Parts Company	GPC	Consumer Discretionary	22.243B	20.37
+315	Amcor PLC	AMCR	Materials	18.866B	23.91
+316	Vulcan Materials Company	VMC	Materials	22.746B	37.53
+317	Delta Air Lines Inc.	DAL	Industrials	21.358B	35.06
+318	Constellation Energy Corporation	CEG	Utilities	26.269B	40.80
+319	Martin Marietta Materials Inc.	MLM	Materials	22.224B	28.28
+320	Kellogg Company	K	Consumer Staples	25.883B	17.53
+321	PerkinElmer Inc.	PKI	Health Care	17.896B	26.60
+322	Align Technology Inc.	ALGN	Health Care	20.441B	35.03
+323	Regions Financial Corporation	RF	Financials	20.669B	9.92
+324	Nasdaq Inc.	NDAQ	Financials	30.492B	27.51
+325	Quanta Services Inc.	PWR	Industrials	20.754B	47.27
+326	Cincinnati Financial Corporation	CINF	Financials	16.127B	31.56
+327	Citizens Financial Group Inc.	CFG	Financials	18.879B	9.66
+328	CF Industries Holdings Inc.	CF	Materials	22.417B	9.23
+329	Hologic Inc.	HOLX	Health Care	17.621B	11.92
+330	Teledyne Technologies Incorporated	TDY	Information Technology	18.416B	26.67
+331	United Rentals Inc.	URI	Industrials	21.556B	12.77
+332	Clorox Company	CLX	Consumer Staples	18.226B	39.67
+333	Dover Corporation	DOV	Industrials	19.089B	16.90
+334	Huntington Bancshares Incorporated	HBAN	Financials	19.816B	12.05
+335	Raymond James Financial Inc.	RJF	Financials	22.973B	15.18
+336	Mosaic Company	MOS	Materials	20.954B	6.92
+337	Essex Property Trust Inc.	ESS	Real Estate	19.171B	48.05
+338	EPAM Systems Inc.	EPAM	Information Technology	24.931B	72.67
+339	Ingersoll Rand Inc.	IR	Industrials	19.949B	38.66
+340	Broadridge Financial Solutions Inc.	BR	Information Technology	20.487B	38.38
+341	Hewlett Packard Enterprise Co.	HPE	Information Technology	18.658B	5.15
+342	FLEETCOR Technologies Inc.	FLT	Information Technology	17.666B	21.23
+343	Molina Healthcare Inc.	MOH	Health Care	19.06B	25.41
+344	VeriSign Inc.	VRSN	Information Technology	21.004B	27.38
+345	Conagra Brands Inc.	CAG	Consumer Staples	17.086B	19.32
+346	Expeditors International of Washington Inc.	EXPD	Industrials	17.511B	11.81
+347	Jacobs Engineering Group Inc.	J	Industrials	16.073B	35.28
+348	Quest Diagnostics Incorporated	DGX	Health Care	15.012B	10.68
+349	KeyCorp	KEY	Financials	17.487B	8.22
+350	Stanley Black & Decker Inc.	SWK	Industrials	13.827B	16.27
+351	Atmos Energy Corporation	ATO	Utilities	16.248B	21.23
+352	Marathon Oil Corporation	MRO	Energy	17.814B	6.23
+353	Principal Financial Group Inc.	PFG	Financials	19.189B	4.73
+354	Zebra Technologies Corporation Class A	ZBRA	Information Technology	16.539B	34.41
+355	Monolithic Power Systems Inc.	MPWR	Information Technology	23.259B	71.42
+356	Westinghouse Air Brake Technologies Corporation	WAB	Industrials	16.711B	26.87
+357	Cooper Companies Inc.	COO	Health Care	15.477B	16.55
+358	International Paper Company	IP	Materials	15.426B	11.42
+359	SolarEdge Technologies Inc.	SEDG	Information Technology	16.391B	126.44
+360	Evergy Inc.	EVRG	Utilities	16.172B	19.79
+361	Paramount Global Class B	PARA	Communication Services	16.358B	5.14
+362	CarMax Inc.	KMX	Consumer Discretionary	14.471B	15.33
+363	Skyworks Solutions Inc.	SWKS	Information Technology	16.765B	13.26
+364	Alliant Energy Corp	LNT	Utilities	15.889B	22.86
+365	Akamai Technologies Inc.	AKAM	Information Technology	14.864B	26.87
+366	Cardinal Health Inc.	CAH	Health Care	18.735B	N/A
+367	Domino's Pizza Inc.	DPZ	Consumer Discretionary	14.245B	31.01
+368	Garmin Ltd.	GRMN	Consumer Discretionary	18.109B	17.85
+369	Darden Restaurants Inc.	DRI	Consumer Discretionary	15.672B	17.25
+370	Incyte Corporation	INCY	Health Care	16.231B	17.29
+371	Trimble Inc.	TRMB	Information Technology	17.773B	34.34
+372	W. R. Berkley Corporation	WRB	Financials	16.588B	13.16
+373	Camden Property Trust	CPT	Real Estate	14.565B	17.71
+374	Expedia Group Inc.	EXPE	Consumer Discretionary	16.827B	44.50
+375	Synchrony Financial	SYF	Financials	16.539B	4.99
+376	Leidos Holdings Inc.	LDOS	Industrials	13.597B	19.37
+377	Iron Mountain Inc.	IRM	Real Estate	15.828B	42.87
+378	Healthpeak Properties Inc.	PEAK	Real Estate	15.23B	70.56
+379	AES Corporation	AES	Utilities	17.079B	N/A
+380	V.F. Corporation	VFC	Consumer Discretionary	16.868B	16.89
+381	J.M. Smucker Company	SJM	Consumer Staples	15.358B	24.72
+382	Xylem Inc.	XYL	Industrials	17.321B	41.44
+383	Pool Corporation	POOL	Consumer Discretionary	14.402B	19.10
+384	NetApp Inc.	NTAP	Information Technology	16.001B	17.80
+385	Teradyne Inc.	TER	Information Technology	14.513B	19.49
+386	Paycom Software Inc.	PAYC	Information Technology	22.297B	96.98
+387	UDR Inc.	UDR	Real Estate	26.365B	98.69
+388	Seagate Technology Holdings PLC	STX	Information Technology	15.88B	10.34
+389	Brown & Brown Inc.	BRO	Financials	19.08B	31.27
+390	Generac Holdings Inc.	GNRC	Industrials	15.572B	33.15
+391	FMC Corporation	FMC	Materials	14.445B	19.15
+392	Tyler Technologies Inc.	TYL	Information Technology	16.106B	92.44
+393	Western Digital Corporation	WDC	Information Technology	14.471B	9.77
+394	Avery Dennison Corporation	AVY	Materials	15.563B	20.84
+395	Best Buy Co. Inc.	BBY	Consumer Discretionary	17.48B	8.62
+396	Jack Henry & Associates Inc.	JKHY	Information Technology	14.765B	41.02
+397	Hormel Foods Corporation	HRL	Consumer Staples	28.095B	29.40
+398	Omnicom Group Inc	OMC	Communication Services	14.302B	11.43
+399	Textron Inc.	TXT	Industrials	13.815B	18.04
+400	C.H. Robinson Worldwide Inc.	CHRW	Industrials	14.497B	14.08
+401	J.B. Hunt Transport Services Inc.	JBHT	Industrials	19.526B	21.18
+402	LKQ Corporation	LKQ	Consumer Discretionary	15.043B	13.05
+403	Packaging Corporation of America	PKG	Materials	13.234B	13.05
+404	NVR Inc.	NVR	Consumer Discretionary	14.079B	10.35
+405	NortonLifeLock Inc.	NLOK	Information Technology	13.279B	16.25
+406	Viatris Inc.	VTRS	Health Care	12.32B	16.39
+407	Boston Properties Inc.	BXP	Real Estate	12.957B	19.68
+408	Celanese Corporation	CE	Materials	12.611B	6.44
+409	Kimco Realty Corporation	KIM	Real Estate	13.597B	18.17
+410	Masco Corporation	MAS	Industrials	11.941B	14.83
+411	NiSource Inc	NI	Utilities	12.56B	20.22
+412	Cboe Global Markets Inc	CBOE	Financials	12.935B	62.22
+413	Las Vegas Sands Corp.	LVS	Consumer Discretionary	28.939B	15.66
+414	Citrix Systems Inc.	CTXS	Information Technology	13.065B	39.45
+415	Howmet Aerospace Inc.	HWM	Industrials	15.258B	41.74
+416	APA Corp.	APA	Energy	13.162B	4.54
+417	Teleflex Incorporated	TFX	Health Care	11.279B	22.37
+418	Loews Corporation	L	Financials	13.341B	12.76
+419	United Airlines Holdings Inc.	UAL	Industrials	12.217B	N/A
+420	Signature Bank	SBNY	Financials	11.726B	9.89
+421	ABIOMED Inc.	ABMD	Health Care	13.3B	98.15
+422	Eastman Chemical Company	EMN	Materials	11.866B	10.57
+423	PTC Inc.	PTC	Information Technology	14.023B	28.54
+424	Everest Re Group Ltd.	RE	Financials	10.307B	7.76
+425	Live Nation Entertainment Inc.	LYV	Communication Services	21.215B	N/A
+426	Host Hotels & Resorts Inc.	HST	Real Estate	13.563B	23.38
+427	Nordson Corporation	NDSN	Industrials	13.791B	29.07
+428	Charles River Laboratories International Inc.	CRL	Health Care	11.51B	26.59
+429	Interpublic Group of Companies Inc.	IPG	Communication Services	11.314B	11.67
+430	Advance Auto Parts Inc.	AAP	Consumer Discretionary	10.91B	19.99
+431	Bio-Rad Laboratories Inc. Class A	BIO	Health Care	16.321B	N/A
+432	Henry Schein Inc.	HSIC	Health Care	10.32B	16.24
+433	Snap-on Incorporated	SNA	Industrials	11.913B	14.04
+434	MGM Resorts International	MGM	Consumer Discretionary	13.629B	4.96
+435	WestRock Company	WRK	Materials	10.475B	11.84
+436	Fox Corporation Class A	FOXA	Communication Services	19.64B	17.51
+437	Molson Coors Beverage Company Class B	TAP	Consumer Staples	12.288B	16.85
+438	Hasbro Inc.	HAS	Consumer Discretionary	11.473B	21.41
+439	Lamb Weston Holdings Inc.	LW	Consumer Staples	11.726B	59.12
+440	Lumen Technologies Inc.	LUMN	Communication Services	11.296B	5.62
+441	Etsy Inc.	ETSY	Consumer Discretionary	13.408B	39.96
+442	PulteGroup Inc.	PHM	Consumer Discretionary	9.744B	4.71
+443	Qorvo Inc.	QRVO	Information Technology	10.12B	14.27
+444	Assurant Inc.	AIZ	Financials	8.914B	19.76
+445	Campbell Soup Company	CPB	Consumer Staples	15.495B	16.52
+446	Comerica Incorporated	CMA	Financials	10.769B	11.97
+447	NRG Energy Inc.	NRG	Utilities	9.864B	2.95
+448	Regency Centers Corporation	REG	Real Estate	10.876B	22.60
+449	F5 Inc.	FFIV	Information Technology	9.877B	30.04
+450	Juniper Networks Inc.	JNPR	Information Technology	9.352B	24.57
+451	Whirlpool Corporation	WHR	Consumer Discretionary	9.006B	14.49
+452	Huntington Ingalls Industries Inc.	HII	Industrials	9.561B	16.44
+453	Sealed Air Corporation	SEE	Materials	8.297B	15.83
+454	Organon & Co.	OGN	Health Care	7.645B	6.93
+455	Nielsen Holdings Plc	NLSN	Industrials	10.007B	17.60
+456	Fortune Brands Home & Security Inc.	FBHS	Industrials	8.743B	12.23
+457	American Airlines Group Inc.	AAL	Industrials	9.091B	N/A
+458	Pinnacle West Capital Corporation	PNW	Utilities	8.689B	15.85
+459	Robert Half International Inc.	RHI	Industrials	8.639B	12.80
+460	Caesars Entertainment Inc	CZR	Consumer Discretionary	9.861B	N/A
+461	BorgWarner Inc.	BWA	Consumer Discretionary	8.891B	14.01
+462	Tapestry Inc.	TPR	Consumer Discretionary	8.691B	11.37
+463	Lincoln National Corporation	LNC	Financials	8.244B	10.03
+464	Royal Caribbean Group	RCL	Consumer Discretionary	10.697B	N/A
+465	DENTSPLY SIRONA Inc.	XRAY	Health Care	7.427B	20.52
+466	Zions Bancorporation N.A.	ZION	Financials	8.419B	10.42
+467	Rollins Inc.	ROL	Industrials	17.633B	53.45
+468	Pentair plc	PNR	Industrials	7.901B	14.17
+469	A. O. Smith Corporation	AOS	Industrials	9.466B	18.86
+470	DXC Technology Co.	DXC	Information Technology	5.754B	12.09
+471	Newell Brands Inc	NWL	Consumer Discretionary	8.297B	11.73
+472	Universal Health Services Inc. Class B	UHS	Health Care	8.27B	11.32
+473	Carnival Corporation	CCL	Consumer Discretionary	12.891B	N/A
+474	Federal Realty Investment Trust	FRT	Real Estate	8.662B	30.52
+475	Bath & Body Works Inc.	BBWI	Consumer Discretionary	8.438B	13.25
+476	Mohawk Industries Inc.	MHK	Consumer Discretionary	7.186B	7.57
+477	Franklin Resources Inc.	BEN	Financials	13.491B	8.03
+478	Ceridian HCM Holding Inc.	CDAY	Information Technology	9.969B	N/A
+479	News Corporation Class A	NWSA	Communication Services	10.203B	16.62
+480	Wynn Resorts Limited	WYNN	Consumer Discretionary	7.145B	N/A
+481	Invesco Ltd.	IVZ	Financials	8.052B	7.66
+482	Penn National Gaming Inc.	PENN	Consumer Discretionary	5.336B	27.58
+483	Alaska Air Group Inc.	ALK	Industrials	5.756B	27.52
+484	DaVita Inc.	DVA	Health Care	8.338B	11.30
+485	Norwegian Cruise Line Holdings Ltd.	NCLH	Consumer Discretionary	5.87B	N/A
+486	Vornado Realty Trust	VNO	Real Estate	5.722B	42.08
+487	DISH Network Corporation Class A	DISH	Communication Services	9.28B	5.42
+488	Fox Corporation Class B	FOX	Communication Services	18.391B	15.16
+489	Ralph Lauren Corporation Class A	RL	Consumer Discretionary	6.444B	12.48
+490	PVH Corp.	PVH	Consumer Discretionary	4.425B	4.68
+491	Embecta Corporation	EMBC	Health Care	1.89B	5.07
