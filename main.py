@@ -12,7 +12,7 @@ stocks = pd.DataFrame(columns = ["Name", "Ticker", "Sector", "Market Cap", "PE R
 i = 0
 
 # Go through first table ignoring top row
-for row in soup.find_all('table')[0].tbody.find_all('tr')[1:]:
+for row in soup.find_all('table')[0].tbody.find_all('tr'):
     # Select associated column and assign value to associated variable
     name = row.find_all('td')[1].text
     ticker = row.find_all('td')[2].text
@@ -42,5 +42,5 @@ for row in soup.find_all('table')[0].tbody.find_all('tr')[1:]:
         # Merge with rest of companies
         stocks = pd.merge(stocks, company, how="outer")
 
-# Output full list as a CSV
+# Output full list as a CSV, next time remove index
 stocks.to_csv("Part 1 Output", sep='\t', encoding='utf-8')
